@@ -1,6 +1,6 @@
 Set-up Instructions
 
-Step 1: Click the green 'Code' button and clcik the download for the project Zip file
+Step 1: Click the green 'Code' button and click the download for the project Zip file
 
 Step 2: Extract the contents of the Zip folder anywhere on your computer
 
